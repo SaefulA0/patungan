@@ -118,7 +118,7 @@ class _CarddetailState extends State<Carddetail> {
                             padding: EdgeInsets.only(top: 4),
                           ),
                           Text(
-                            'Lorem',
+                            'Loremm',
                             style: TextStyle(
                               color: Colors.white,
                             ),
